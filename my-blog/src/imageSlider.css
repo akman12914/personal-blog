@@ -115,10 +115,12 @@
   }
   
   .play .fa-play {
+    color: white;
     display: none;
   }
   
   .play .fa-pause {
+    color: white;
     display: block;
   }
   
