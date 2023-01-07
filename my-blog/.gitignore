@@ -6,6 +6,8 @@
 .pnp.js
 *.txt
 /src/image
+/study
+
 
 # testing
 /coverage
