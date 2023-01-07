@@ -1,2 +1,5 @@
 # personal-blog
-reactJS 개인 블로그
+
+ReactJS + Firebase 기반 
+Relationship diary
+
