@@ -2,12 +2,12 @@
 
 import React from "react";
 import "./App.css";
-import Imageslider from "./imageslider";
+import ImageSlider from "./imageSlider";
 
 function App() {
   return (
     <div className="App">
-         <Imageslider />
+         <ImageSlider />
     </div>
   );
 }
